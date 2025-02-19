@@ -120,4 +120,7 @@ The system includes a visualization component that shows:
 - Bar plot of similarity scores
 - Top recommended movies
 
+## Expected Salary per month: 2000$ per month
+
+
 
