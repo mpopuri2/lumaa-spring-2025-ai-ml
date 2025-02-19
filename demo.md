@@ -1,7 +1,7 @@
 # Manjunath Popuri Movie Recomendation Task Demo
 
 ## Video Demonstration
-[Demo Video](https://drive.google.com/file/d/1t3m_WUw_cho946-XQ7IeRMAmMCG3hEfG/view?usp=share_link)
+[Watch the Demo Video](https://drive.google.com/file/d/1t3m_WUw_cho946-XQ7IeRMAmMCG3hEfG/view?usp=share_link)
 
 ## Demo Walkthrough
 
@@ -23,7 +23,7 @@ Sample Queries Used:
 
 2. "Recommend movies similar to love romance"
    - Demonstrates different genre recommendations
-   - Shows versatility of the system
+   - Shows the versatility of the system
 
 
 ### 4. Visualization
