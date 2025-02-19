@@ -3,7 +3,7 @@
 A content-based movie recommendation system using TF-IDF and cosine similarity based on IMDB movie descriptions.
 
 ## Dataset
-The system uses the ![IMDB Movies Dataset from Kaggle](https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset).
+The system uses the [IMDB Movies Dataset from Kaggle](https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset).
 
 ### Dataset Information
 - **Source**: Kaggle
@@ -104,8 +104,8 @@ Top Recommendations:
 
 5. Lightyear
    legendary space ranger buzz lightyear embarks on an intergalactic adventure alongside a group of ambitious recruit and his robot companion sox
-![Output Image](output_img.png)
 ```
+![Output Image](output_img.png)
 
 ## Code Structure
 - `recommend.py`: Main script containing recommendation system
