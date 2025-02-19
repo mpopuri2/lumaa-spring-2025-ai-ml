@@ -52,7 +52,7 @@ python3 -m venv venv
    source venv/bin/activate
 ```
 
-2. Install dependencies:
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -79,7 +79,7 @@ python3 Manjunath_Popuri_Movie_Recomendation_Task.py
 
 Input: 
 ```
-"I like thrilling action movies set in space"
+"I love thrilling action movies set in space, with a comedic twist."
 ```
 
 Output:
@@ -108,7 +108,7 @@ Top Recommendations:
 ![Output Image](output_img.png)
 
 ## Code Structure
-- `recommend.py`: Main script containing recommendation system
+- `Manjunath_Popuri_Movie_Recomendation_Task.py`: Main script containing recommendation system
 - Key functions:
   - `load_data()`: Loads and preprocesses the IMDB dataset
   - `preprocess_text()`: Cleans and normalizes movie descriptions
